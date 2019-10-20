@@ -3,40 +3,36 @@
 # This config file contains the config of your webpages
 # You may also want to update /config/webpack.pwa.js in case you want to generate a Progressive Web App
 
-title: Super-website
-email: your-email@example.com
-description: A super website made with love
+title: NYU JCA
+email: nyu.jca@gmail.com
+description: The official website of NYU JCA
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 theme_color: '#c0ffee'
-twitter_username: sandochee
-github_username:  sandoche
-author: Sandoche Adittane
+twitter_username: 
+github_username:  uetuluk
+author: Utku Ege Tuluk
 logo: assets/images/large-logo.png
 twitter:
-  username: sandochee
+  username: 
 social:
-  name: Sandoche Adittane
+  name: Utku Ege Tuluk
   links:
-    - https://twitter.com/sandochee
-    - https://www.facebook.com/sandoche
-    - https://www.linkedin.com/in/sandoche
-    - https://plus.google.com/+SandocheADITTANE
-    - https://github.com/sandoche
+    - https://github.com/uetuluk
 
-languages: ["en"]
+languages: ["en", "ja"]
 ampdir: amp
 netlify_cms: true
 
 ### Google webmaster tools, Google Analytics, Doorbell and Cookie consent uncomment and put the API key
-#webmaster_verifications:
+# webmaster_verifications:
 #  google: verification_code
-#google_analytics: id
+google_analytics: UA-150440868-1
 #doorbell:
 #  id: doorbell_id
 #  appKey: doorbell_appKey
 
-#cookie_consent: true
+cookie_consent: true
 
 ### Build settings
 markdown: kramdown

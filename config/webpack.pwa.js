@@ -7,9 +7,9 @@ const WebpackPwaManifest = require('webpack-pwa-manifest');
 module.exports = Merge(ProdConfig, {
   plugins: [
     new WebpackPwaManifest({
-      name: 'Super-website',
-      short_name: 'Super PWA',
-      description: 'A super website made with love',
+      name: 'NYU JCA Website',
+      short_name: 'NYU JCA',
+      description: 'The official website of NYU JCA',
       orientation: 'portrait',
       display: 'standalone',
       start_url: '/',
