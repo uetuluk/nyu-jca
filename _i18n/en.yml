@@ -1,9 +1,5 @@
 home:
   header:
-    headline: Your beautiful headline
-    call_to_action:
-      title: Check out our blog
-      link: /blog
-
+    headline: Welcome to NYU JCA Website
 footer:
-  love: 'Made with <span class="accent">❤</span>'
+  love: Made with <span class="accent">❤</span>
