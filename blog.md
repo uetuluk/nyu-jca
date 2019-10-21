@@ -1,7 +1,7 @@
 ---
 layout: blog
-title: {% t blog.header.headline %}
-permalink: /blog/
+title: News
+permalink: /news/
 ---
 
 Hello world

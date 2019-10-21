@@ -1,6 +1,6 @@
 ---
 layout: page
-title: {% t about.header.headline %}
+title: About
 permalink: /about/
 ---
 

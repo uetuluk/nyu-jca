@@ -1,9 +1,9 @@
 home:
   header:
     headline: Welcome to NYU JCA Website
-  call_to_action:
-    link: https://nyujca.netlify.com/blog/
-    title: Check the News
+    call_to_action:
+      link: https://nyujca.netlify.com/blog/
+      title: Check the News
 footer:
   love: Made with <span class="accent">❤</span>
 about:
