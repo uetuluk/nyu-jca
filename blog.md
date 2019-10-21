@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: Blog
+title: {% t blog.header.headline %}
 permalink: /blog/
 ---
 

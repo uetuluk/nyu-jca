@@ -1,5 +1,14 @@
 home:
   header:
     headline: NYU JCAのウェブサイトへようこそ
+  call_to_action:
+    link: https://nyujca.netlify.com/ja/blog/
+    title: ニュース見て
 footer:
   love: <span class="accent">❤</span>を込めて作られた
+about:
+  header:
+    headline: JCAについて
+blog:
+  header:
+    headline: ニュース
