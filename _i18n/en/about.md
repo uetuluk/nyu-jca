@@ -1,5 +1,2 @@
-![Jekyll webpack boilerplate](/assets/images/icon.png){:style="width:150px; filter: grayscale(100%); opacity: 0.5; float: right; margin-top: -50px;"}
-
-This website has been built with [Jekyll webpack boilerplate](https://github.com/sandoche/Jekyll-webpack-boilerplate)
-
-Check our documentation for more information.
+Welcome to the NYU JCA website! We are an organization at New York University that promotes Japanese culture in a positive and fun way. Every semester we host & co-host several exciting events that students from all backgrounds can come and enjoy.
+Through this page you can take a look at our news.
